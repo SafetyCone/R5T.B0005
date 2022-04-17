@@ -1,0 +1,3 @@
+R5T.B0005.Construction - Construction project for Example and related extension method bases..
+
+GOALS:
