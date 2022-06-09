@@ -1,3 +1,6 @@
 R5T.B0005 - Example and related extension method bases.
 
-GOALS:
+
+See also:
+
+* R5T.Z0004 - Examples for general purposes.
